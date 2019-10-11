@@ -1,0 +1,8 @@
+prefix=/home/wang/下载/UcoSLAM-master/install
+
+Name: beginner_tutorials
+Description: Description of beginner_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wang/下载/UcoSLAM-master/install/lib 
+Requires: 
